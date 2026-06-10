@@ -1,0 +1,9 @@
+flowchart LR
+    G[Existing Registrar] --> U[Unlock Domain]
+    U --> A[Get Authorization Code]
+    A --> R[Start Transfer in Route 53]
+    R --> V[Verify Contact / Email]
+    V --> Z[Create Hosted Zone]
+    Z --> N[Update Name Servers]
+    N --> T[Test DNS Resolution]
+    T --> C[Complete Migration]

@@ -1,27 +1,12 @@
 # AWS Modernization Blueprints
 
-Reference architectures and implementation blueprints for AWS modernization.
+Reference architectures and implementation blueprints for AWS modernization, governance, data transfer, tagging, and migration patterns.
 
-## Domains
+## Catalog
 
-- Migration
-- Modernization
-- Containers
-- Serverless
-- DevOps
-- DevSecOps
-- Landing Zones
-- Multi-account governance
-
-## Blueprint Areas
-
-- SAP on AWS
-- VMware modernization
-- .NET modernization
-- Data platform modernization
-- AI platform modernization
-
----
-
-Field-tested patterns from enterprise transformation programs.
-
+| Blueprint | Focus |
+|---|---|
+| AWS Resource Tagging | Governance, cost, ownership, operations |
+| Cost-Effective Data Transfer | Transfer pattern selection and cost controls |
+| Route 53 Domain Migration | Domain migration from registrar to AWS |
+| Modernization Framework | Assess, migrate, modernize, optimize |
