@@ -1,43 +1,27 @@
 # AWS Modernization Blueprints
 
-Reference architectures and implementation blueprints for cloud modernization.
+Reference architectures and implementation blueprints for AWS modernization.
 
 ## Domains
 
-### Migration
-
-- Rehost
-- Replatform
-- Refactor
-
-### Modernization
-
-- Containerization
-- Kubernetes
+- Migration
+- Modernization
+- Containers
 - Serverless
-- Event Driven Architecture
-
-### DevOps
-
-- CI/CD
-- GitOps
-- Infrastructure as Code
-
-### Security
-
+- DevOps
+- DevSecOps
 - Landing Zones
-- Multi-Account Strategy
-- Guardrails
-- Compliance
+- Multi-account governance
 
-## Architecture Collections
+## Blueprint Areas
 
 - SAP on AWS
-- VMware Modernization
-- .NET Modernization
-- Data Platform Modernization
-- AI Platform Modernization
+- VMware modernization
+- .NET modernization
+- Data platform modernization
+- AI platform modernization
 
 ---
 
-Field-tested patterns from enterprise transformation engagements.
+Field-tested patterns from enterprise transformation programs.
+
